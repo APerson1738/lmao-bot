@@ -1,6 +1,6 @@
 Pillow
-git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]
-git+https://github.com/Devoxin/Lavalink.py@dev#egg=lavalink
+git+https://github.com/Rapptz/discord.py@master#egg=discord.py[voice]
+git+https://github.com/Devoxin/Lavalink.py@master#egg=lavalink
 dblpy
 Youtube-dl
 rule34
